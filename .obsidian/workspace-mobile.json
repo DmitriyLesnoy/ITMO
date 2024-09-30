@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "172e476ed8a8a89c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f043614843ce8bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c865f68b4c7ee560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f517bd87c4739ed3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cc601f7d9c8d9b61",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c9e151a0463e20fa",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6e177987157fb6d5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d0a5b5e47accecc3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a9d4ff9a12b7b7ea",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "652d906e1ebae94d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "test.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c2f68d1dddc83fef",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "test.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c31405aa401c467d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "test.md"
+          }
+        }
+      },
+      {
+        "id": "3a75f8935234cebb",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "c865f68b4c7ee560",
+  "lastOpenFiles": [
+    "Face book/Удобство.md",
+    "test.md",
+    "/test.md",
+    "Face book/Дорогой дневник 1.md",
+    "История/fro.md",
+    "Без названия.md",
+    "История",
+    "Математический анализ/Дз мат. ан. 17.09.md",
+    "Face book",
+    "Математический анализ/Математический анализ.md",
+    "Математический анализ/Задачи практических занятий.md",
+    "Линейная алгебра/Числовые множества.png",
+    "Линейная алгебра/НОК и НОД.png",
+    "Линейная алгебра/Деление с остатком.png",
+    "Линейная алгебра/Деление полиномов.png",
+    "/Математический анализ/Задачи практических занятий.md",
+    "/Линейная алгебра/Числовые множества.png",
+    "/Линейная алгебра/НОК и НОД.png",
+    "/Линейная алгебра/Деление с остатком.png",
+    "/Линейная алгебра/Деление полиномов.png",
+    "Линейная алгебра/Линейная алгебра.md",
+    "/Математический анализ/Дз мат. ан. 17.09.md",
+    "/Линейная алгебра/Линейная алгебра.md",
+    "/Математический анализ/Математический анализ.md",
+    "Математический анализ",
+    "Линейная алгебра",
+    "/Математический анализ",
+    "/Линейная алгебра",
+    "Математика.md",
+    "Математический анализ.md",
+    "Линейная алгебра.md",
+    "/Математический анализ.md",
+    "/Математика.md",
+    "/Линейная алгебра.md",
+    "Учебники/Бойцев А.А. Математический анализ (базовый уровень).pdf",
+    "/Учебники/Бойцев А.А. Математический анализ (базовый уровень).pdf",
+    "Числовые множества.png",
+    "Небесный замок Лапута.md",
+    "НОК и НОД.png",
+    "Задачи практических занятий.md",
+    "/Небесный замок Лапута.md",
+    "/Задачи практических занятий.md",
+    "Бойцев А.А. Математический анализ (базовый уровень).pdf",
+    "Учебники",
+    "README.md",
+    "Untitled.md"
+  ]
+}
