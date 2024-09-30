@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "80132477a6daa07f",
+        "id": "0998a0e63668ed2b",
         "type": "tabs",
         "children": [
           {
-            "id": "1c8ff8aab0123c8d",
+            "id": "9a8015aa67ad3d89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Михайлов.pdf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58ced497334f0a35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Линейная алгебра/Линейная алгебра.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Михайлов.pdf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Михайлов.pdf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Михайлов.pdf.md"
               }
             }
           },
@@ -142,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,8 +168,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c60235da6ec88869",
+  "active": "9a8015aa67ad3d89",
   "lastOpenFiles": [
+    "Михайлов.pdf.md",
+    "Линейная алгебра/Линейная алгебра.md",
+    "LecB_1_3_Ring_polynom.pdf",
+    "LecB_1_2_Structures.pdf",
+    "LecB_1_1_Complex.pdf",
+    "История/fro.md",
+    "Математика.md",
+    "README.md",
     "test.md",
     " — копия (2).gitignore",
     " — копия (2).gitattributes",
@@ -166,8 +187,6 @@
     "README — копия.md",
     "Programming/Lab1/~$ограммирование_ЛР1_P3115_Линейский_Аким_Евгеньевич.docx",
     "Небесный замок Лапута.md",
-    "README.md",
-    "История/fro.md",
     "История",
     "Face book/Удобство.md",
     "Face book/Дорогой дневник 1.md",
