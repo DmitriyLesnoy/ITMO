@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -27,9 +27,16 @@
         "a": 1,
         "rgb": 10215450
       }
+    },
+    {
+      "query": "path:Informatics/Lab1  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 0.450172948473282,
   "linkDistance": 250,
-  "scale": 0.9689605835525551,
+  "scale": 0.7761779353197852,
   "close": false
 }

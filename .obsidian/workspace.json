@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0998a0e63668ed2b",
+        "id": "225de68f010a0747",
         "type": "tabs",
         "children": [
           {
-            "id": "9a8015aa67ad3d89",
+            "id": "1dc9fe1392f3d5e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Михайлов.pdf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58ced497334f0a35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Линейная алгебра/Линейная алгебра.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.5
   },
   "right": {
     "id": "851b775513eb3dc4",
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Михайлов.pdf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Михайлов.pdf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Михайлов.pdf.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 387.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,28 +147,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a8015aa67ad3d89",
+  "active": "1dc9fe1392f3d5e3",
   "lastOpenFiles": [
-    "Михайлов.pdf.md",
+    "Face book/23.09.2024 23.55.md",
+    "Face book/Peoples/Леночка Луценко.md",
+    "Сара-Мария Коркман.md",
+    "Face book/Peoples/Екатерина Галак.md",
+    "Pasted image 20241001001933.png",
+    "Face book/Peoples/Таня Не помню.md",
+    "Face book/Peoples/Сара-Мария Коркман.md",
+    "Стас.md",
+    "Face book/Peoples/Стас Суворов.md",
+    "Face book/Peoples",
+    "Face book/Дорогой дневник 1.md",
+    "Face book/Удобство.md",
+    "Без названия.canvas",
+    "Математический анализ/Математический анализ.md",
+    "README.md",
+    "Задачи практических занятий.md",
     "Линейная алгебра/Линейная алгебра.md",
-    "LecB_1_3_Ring_polynom.pdf",
-    "LecB_1_2_Structures.pdf",
-    "LecB_1_1_Complex.pdf",
+    "Линейная алгебра/LecB_1_1_Complex.pdf",
+    "test.md",
+    "Учебники/Мат индукция_повыш сложность задачник.pdf",
+    "Учебники/Бойцев А.А. Математический анализ (базовый уровень).pdf",
+    "Учебники/Михайлов задачник.pdf",
+    "Математический анализ/Дз мат. ан. 17.09.md",
+    "Михайлов.pdf.md",
+    "Бойцев_А_А_Математический_анализ.pdf",
+    "Небесный замок Лапута.md",
+    "Линейная алгебра/LecB_1_3_Ring_polynom.pdf",
+    "Линейная алгебра/LecB_1_2_Structures.pdf",
     "История/fro.md",
     "Математика.md",
-    "README.md",
-    "test.md",
     " — копия (2).gitignore",
     " — копия (2).gitattributes",
     "README — копия (2).md",
-    " — копия.gitignore",
-    " — копия.gitattributes",
-    "README — копия.md",
-    "Programming/Lab1/~$ограммирование_ЛР1_P3115_Линейский_Аким_Евгеньевич.docx",
-    "Небесный замок Лапута.md",
-    "История",
-    "Face book/Удобство.md",
-    "Face book/Дорогой дневник 1.md",
-    "Face book"
+    "README — копия.md"
   ]
 }
