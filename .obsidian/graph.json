@@ -3,10 +3,32 @@
   "search": "",
   "showTags": false,
   "showAttachments": true,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Informatics",
+      "color": {
+        "a": 1,
+        "rgb": 31743
+      }
+    },
+    {
+      "query": "OPD",
+      "color": {
+        "a": 1,
+        "rgb": 12228667
+      }
+    },
+    {
+      "query": "Programming",
+      "color": {
+        "a": 1,
+        "rgb": 10215450
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 0.450172948473282,
   "linkDistance": 250,
-  "scale": 1.6635539163500075,
-  "close": true
+  "scale": 0.603682704394983,
+  "close": false
 }
