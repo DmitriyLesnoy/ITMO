@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "225de68f010a0747",
+        "id": "6b2879144401d56b",
         "type": "tabs",
         "children": [
           {
-            "id": "1dc9fe1392f3d5e3",
+            "id": "70e647a497c1741e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Линейная алгебра/LecB_1_3_Ring_polynom.pdf"
+              }
             }
           }
         ]
@@ -65,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 200
   },
   "right": {
     "id": "851b775513eb3dc4",
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Линейная алгебра/LecB_1_3_Ring_polynom.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Линейная алгебра/LecB_1_3_Ring_polynom.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Линейная алгебра/LecB_1_3_Ring_polynom.pdf"
+              }
             }
           },
           {
@@ -134,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +154,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4af0b377a74f811",
+  "active": "70e647a497c1741e",
   "lastOpenFiles": [
+    "Линейная алгебра/LecB_1_3_Ring_polynom.pdf",
+    "Линейная алгебра/Линейная алгебра.md",
     "Учебники/Михайлов.pdf",
     "Face book/23.09.2024 23.55.md",
     "Face book/Peoples/Леночка Луценко.md",
@@ -166,7 +175,6 @@
     "Математический анализ/Математический анализ.md",
     "README.md",
     "Задачи практических занятий.md",
-    "Линейная алгебра/Линейная алгебра.md",
     "Линейная алгебра/LecB_1_1_Complex.pdf",
     "test.md",
     "Учебники/Мат индукция_повыш сложность задачник.pdf",
@@ -176,12 +184,10 @@
     "Михайлов.pdf.md",
     "Бойцев_А_А_Математический_анализ.pdf",
     "Небесный замок Лапута.md",
-    "Линейная алгебра/LecB_1_3_Ring_polynom.pdf",
     "Линейная алгебра/LecB_1_2_Structures.pdf",
     "История/fro.md",
     "Математика.md",
     " — копия (2).gitignore",
-    " — копия (2).gitattributes",
     "README — копия (2).md",
     "README — копия.md"
   ]
