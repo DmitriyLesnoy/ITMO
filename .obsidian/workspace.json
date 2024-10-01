@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Линейная алгебра/LecB_1_3_Ring_polynom.pdf"
+                "file": "Учебники/Михайлов.pdf"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "851b775513eb3dc4",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Линейная алгебра/LecB_1_3_Ring_polynom.pdf",
+                "file": "Учебники/Михайлов.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Линейная алгебра/LecB_1_3_Ring_polynom.pdf",
+                "file": "Учебники/Михайлов.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Линейная алгебра/LecB_1_3_Ring_polynom.pdf"
+                "file": "Учебники/Михайлов.pdf"
               }
             }
           },
