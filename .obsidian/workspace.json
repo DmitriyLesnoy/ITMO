@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6b2879144401d56b",
+        "id": "50f327508c221037",
         "type": "tabs",
         "children": [
           {
-            "id": "70e647a497c1741e",
+            "id": "12b17729e6db4d6b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Учебники/Михайлов.pdf"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -84,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Учебники/Михайлов.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Учебники/Михайлов.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Учебники/Михайлов.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -155,16 +149,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70e647a497c1741e",
+  "active": "12b17729e6db4d6b",
   "lastOpenFiles": [
+    "Pasted image 20241001001933.png",
+    "Учебники/Михайлов.pdf",
     "Линейная алгебра/LecB_1_3_Ring_polynom.pdf",
     "Линейная алгебра/Линейная алгебра.md",
-    "Учебники/Михайлов.pdf",
     "Face book/23.09.2024 23.55.md",
     "Face book/Peoples/Леночка Луценко.md",
     "Сара-Мария Коркман.md",
     "Face book/Peoples/Екатерина Галак.md",
-    "Pasted image 20241001001933.png",
     "Face book/Peoples/Таня Не помню.md",
     "Face book/Peoples/Сара-Мария Коркман.md",
     "Стас.md",
