@@ -31,13 +31,13 @@ public class Lab2 {
             }
             error_index += (int) Math.pow(2, r) * R;
         }
-        
+
         if (error_index == 0) {
             System.out.println("No errors in message found");
         } else {
-            switch (String.valueOf(info.charAt(error_index-1))) {
+            switch (String.valueOf(info.charAt(error_index - 1))) {
                 case "1":
-                    info = info.substring(0,error_index-1) + '0' + info.substring(error_index);
+                    info = info.substring(0, error_index - 1) + '0' + info.substring(error_index);
                     break;
                 case "0":
                     info = info.substring(0, error_index - 1) + '1' + info.substring(error_index);
