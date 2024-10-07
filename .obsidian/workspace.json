@@ -13,11 +13,22 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Учебники/Бойцев А.А. Математический анализ (базовый уровень).pdf"
+                "file": "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf"
+              }
+            }
+          },
+          {
+            "id": "a1b4869a96376cbf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Учебники/Бойцев А.А. Математический анализ (базовый уровень).pdf",
+                "file": "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Учебники/Бойцев А.А. Математический анализ (базовый уровень).pdf",
+                "file": "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Учебники/Бойцев А.А. Математический анализ (базовый уровень).pdf"
+                "file": "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf"
               }
             }
           },
@@ -140,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,12 +164,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12b17729e6db4d6b",
+  "active": "a1b4869a96376cbf",
   "lastOpenFiles": [
+    "Линейная алгебра/Линейная алгебра.md",
+    "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf",
+    "Учебники/Бойцев А.А. Математический анализ (базовый уровень).pdf",
     "Pasted image 20241001001933.png",
     "Учебники/Михайлов.pdf",
     "Линейная алгебра/LecB_1_3_Ring_polynom.pdf",
-    "Линейная алгебра/Линейная алгебра.md",
     "Face book/23.09.2024 23.55.md",
     "Face book/Peoples/Леночка Луценко.md",
     "Сара-Мария Коркман.md",
@@ -177,7 +190,6 @@
     "Линейная алгебра/LecB_1_1_Complex.pdf",
     "test.md",
     "Учебники/Мат индукция_повыш сложность задачник.pdf",
-    "Учебники/Бойцев А.А. Математический анализ (базовый уровень).pdf",
     "Учебники/Михайлов задачник.pdf",
     "Математический анализ/Дз мат. ан. 17.09.md",
     "Михайлов.pdf.md",
@@ -186,7 +198,6 @@
     "Линейная алгебра/LecB_1_2_Structures.pdf",
     "История/fro.md",
     "Математика.md",
-    " — копия (2).gitignore",
     "README — копия (2).md",
     "README — копия.md"
   ]
