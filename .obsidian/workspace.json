@@ -26,9 +26,21 @@
                 "file": "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf"
               }
             }
+          },
+          {
+            "id": "fed08d929ef9fb83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дискретная математика/К-р вопр 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "851b775513eb3dc4",
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf",
+                "file": "Дискретная математика/К-р вопр 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf",
+                "file": "Дискретная математика/К-р вопр 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf"
+                "file": "Дискретная математика/К-р вопр 1.md"
               }
             }
           },
@@ -151,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,10 +178,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1b4869a96376cbf",
+  "active": "fed08d929ef9fb83",
   "lastOpenFiles": [
-    "Линейная алгебра/Линейная алгебра.md",
+    "Учебники/presa polyakov.pdf",
+    "Учебники/presa polyakov.pdf.crdownload",
     "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf",
+    "Дискретная математика/К-р вопр 1.md",
+    "Дискретная математика",
+    "Линейная алгебра/Линейная алгебра.md",
     "Учебники/Бойцев А.А. Математический анализ (базовый уровень).pdf",
     "Pasted image 20241001001933.png",
     "Учебники/Михайлов.pdf",
@@ -193,9 +211,7 @@
     "Учебники/Михайлов задачник.pdf",
     "Математический анализ/Дз мат. ан. 17.09.md",
     "Михайлов.pdf.md",
-    "Бойцев_А_А_Математический_анализ.pdf",
     "Небесный замок Лапута.md",
-    "Линейная алгебра/LecB_1_2_Structures.pdf",
     "История/fro.md",
     "Математика.md",
     "README — копия (2).md",
