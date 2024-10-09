@@ -11,26 +11,6 @@
             "id": "12b17729e6db4d6b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf"
-              }
-            }
-          },
-          {
-            "id": "a1b4869a96376cbf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf"
-              }
-            }
-          },
-          {
-            "id": "fed08d929ef9fb83",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Дискретная математика/К-р вопр 1.md",
@@ -38,9 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1b4869a96376cbf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images wors/{0C2248F8-D683-4C90-B187-961C4F480D16}.png"
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "851b775513eb3dc4",
@@ -164,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 362.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,23 +165,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fed08d929ef9fb83",
+  "active": "12b17729e6db4d6b",
   "lastOpenFiles": [
-    "{5F1A322D-73E5-4B2A-99D2-63BCF4FE60E5}.png",
-    "{5946FDCD-A5BE-48A5-81D4-F18D239E7381}.png",
-    "{D6EFC545-32A7-4C88-9AE6-2F2D440F0800}.png",
-    "{340D77EF-1F66-46CC-B410-7A3A589FA0F9}.png",
-    "{57D82A32-BFB7-494E-B0C9-5C20BCF8E761} 1.png",
-    "{57D82A32-BFB7-494E-B0C9-5C20BCF8E761}.png",
-    "{80414FCF-1991-452A-82A9-5983C7C248B6}.png",
-    "{42B0A578-9AC7-443F-ACEE-FB420D7E0834}.png",
-    "{60C0046E-1954-4A9D-9C7C-82BAD8F2CC09}.png",
-    "{5CE276A9-AC9E-4C5D-8788-D18C067ABF99}.png",
-    "{4B2BC076-890B-4EAF-A323-747C86FF6CE8}.png",
+    "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf",
+    "Images wors/{0C2248F8-D683-4C90-B187-961C4F480D16}.png",
+    "Дискретная математика/К-р вопр 1.md",
+    "Images wors",
+    "Images wors/{5F1A322D-73E5-4B2A-99D2-63BCF4FE60E5}.png",
+    "Images wors/{5946FDCD-A5BE-48A5-81D4-F18D239E7381}.png",
+    "Images wors/{D6EFC545-32A7-4C88-9AE6-2F2D440F0800}.png",
+    "Images wors/{340D77EF-1F66-46CC-B410-7A3A589FA0F9}.png",
+    "Images wors/{57D82A32-BFB7-494E-B0C9-5C20BCF8E761} 1.png",
+    "Images wors/{57D82A32-BFB7-494E-B0C9-5C20BCF8E761}.png",
+    "Images wors/{80414FCF-1991-452A-82A9-5983C7C248B6}.png",
+    "Images wors/{42B0A578-9AC7-443F-ACEE-FB420D7E0834}.png",
+    "Images wors/{60C0046E-1954-4A9D-9C7C-82BAD8F2CC09}.png",
     "Учебники/presa polyakov.pdf",
     "Учебники/presa polyakov.pdf.crdownload",
-    "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf",
-    "Дискретная математика/К-р вопр 1.md",
     "Дискретная математика",
     "Линейная алгебра/Линейная алгебра.md",
     "Учебники/Бойцев А.А. Математический анализ (базовый уровень).pdf",
@@ -217,7 +204,6 @@
     "Задачи практических занятий.md",
     "Линейная алгебра/LecB_1_1_Complex.pdf",
     "test.md",
-    "Учебники/Мат индукция_повыш сложность задачник.pdf",
     "Математический анализ/Дз мат. ан. 17.09.md",
     "Михайлов.pdf.md",
     "Небесный замок Лапута.md",
