@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Базовый синтаксис.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Базовый синтаксис.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Базовый синтаксис.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,14 +157,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "3987e59a988932df",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,13 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71d7303cb9d5d44a",
+  "active": "c60235da6ec88869",
   "lastOpenFiles": [
+    "Java/Базовый синтаксис.md",
     "Images/Pasted image 20241010175626.png",
     "Images/Pasted image 20241010175007.png",
     "Java/Java.md",
     "Базовый синтаксис.md",
-    "Java/Базовый синтаксис.md",
     "Java",
     "Images/Pasted image 20241010161204.png",
     "Дискретная математика/К-р вопр 1.md",
@@ -200,7 +203,6 @@
     "Images/{340D77EF-1F66-46CC-B410-7A3A589FA0F9}.png",
     "Images/{57D82A32-BFB7-494E-B0C9-5C20BCF8E761} 1.png",
     "Images/{57D82A32-BFB7-494E-B0C9-5C20BCF8E761}.png",
-    "Images/{80414FCF-1991-452A-82A9-5983C7C248B6}.png",
     "Учебники/presa polyakov.pdf",
     "Учебники/presa polyakov.pdf.crdownload",
     "Дискретная математика",

@@ -5,7 +5,14 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "TiMathMin",
+      "TiBooks",
+      "SiInformatica",
+      "OcCodespaces16",
+      "SiArkecosystem",
+      "FabJava"
+    ],
     "recentlyUsedIconsSize": 25,
     "rules": [],
     "extraMargin": {
@@ -26,5 +33,11 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "Java": "FabJava",
+  "OPD": "SiArkecosystem",
+  "Programming": "OcCodespaces16",
+  "Informatics": "SiInformatica",
+  "Учебники": "TiBooks",
+  "Математический анализ": "TiMathMin"
 }
