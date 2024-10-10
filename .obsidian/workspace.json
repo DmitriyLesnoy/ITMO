@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "851b775513eb3dc4",
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,23 +157,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1b4869a96376cbf",
+  "active": "c60235da6ec88869",
   "lastOpenFiles": [
-    "Images wors/Pasted image 20241010161204.png",
+    "Images/Pasted image 20241010161204.png",
     "Дискретная математика/К-р вопр 1.md",
     "Programming/Java.md",
-    "Images wors/{0C2248F8-D683-4C90-B187-961C4F480D16}.png",
+    "Images/{0C2248F8-D683-4C90-B187-961C4F480D16}.png",
     "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf",
-    "Images wors",
-    "Images wors/{5F1A322D-73E5-4B2A-99D2-63BCF4FE60E5}.png",
-    "Images wors/{5946FDCD-A5BE-48A5-81D4-F18D239E7381}.png",
-    "Images wors/{D6EFC545-32A7-4C88-9AE6-2F2D440F0800}.png",
-    "Images wors/{340D77EF-1F66-46CC-B410-7A3A589FA0F9}.png",
-    "Images wors/{57D82A32-BFB7-494E-B0C9-5C20BCF8E761} 1.png",
-    "Images wors/{57D82A32-BFB7-494E-B0C9-5C20BCF8E761}.png",
-    "Images wors/{80414FCF-1991-452A-82A9-5983C7C248B6}.png",
-    "Images wors/{42B0A578-9AC7-443F-ACEE-FB420D7E0834}.png",
-    "Images wors/{60C0046E-1954-4A9D-9C7C-82BAD8F2CC09}.png",
+    "Images",
+    "Images/{5F1A322D-73E5-4B2A-99D2-63BCF4FE60E5}.png",
+    "Images/{5946FDCD-A5BE-48A5-81D4-F18D239E7381}.png",
+    "Images/{D6EFC545-32A7-4C88-9AE6-2F2D440F0800}.png",
+    "Images/{340D77EF-1F66-46CC-B410-7A3A589FA0F9}.png",
+    "Images/{57D82A32-BFB7-494E-B0C9-5C20BCF8E761} 1.png",
+    "Images/{57D82A32-BFB7-494E-B0C9-5C20BCF8E761}.png",
+    "Images/{80414FCF-1991-452A-82A9-5983C7C248B6}.png",
+    "Images/{42B0A578-9AC7-443F-ACEE-FB420D7E0834}.png",
+    "Images/{60C0046E-1954-4A9D-9C7C-82BAD8F2CC09}.png",
     "Учебники/presa polyakov.pdf",
     "Учебники/presa polyakov.pdf.crdownload",
     "Дискретная математика",
