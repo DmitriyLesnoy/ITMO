@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12b17729e6db4d6b",
+            "id": "a1b4869a96376cbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,16 +16,6 @@
                 "file": "Дискретная математика/К-р вопр 1.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a1b4869a96376cbf",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images wors/{0C2248F8-D683-4C90-B187-961C4F480D16}.png"
               }
             }
           }
@@ -165,11 +155,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12b17729e6db4d6b",
+  "active": "a1b4869a96376cbf",
   "lastOpenFiles": [
-    "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf",
     "Images wors/{0C2248F8-D683-4C90-B187-961C4F480D16}.png",
     "Дискретная математика/К-р вопр 1.md",
+    "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf",
     "Images wors",
     "Images wors/{5F1A322D-73E5-4B2A-99D2-63BCF4FE60E5}.png",
     "Images wors/{5946FDCD-A5BE-48A5-81D4-F18D239E7381}.png",
