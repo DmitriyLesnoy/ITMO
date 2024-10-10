@@ -14,12 +14,31 @@ Random random = new Random();
 ```
 ## Управляющие конструкции
 ```java
-if (args.length > 0) {
-	System.out.pringln("Hello, " + args[0] + "!");
+if (args.length = 0) {
+	System.out.pringln("Hello, world!");
+} if (args.length = 1) {
+	System.out.println("Hello, " + args[0] + "!");
 } else {
-	System.out.println("Hello, world!");
+	System.out.println("Hello, all!");
 }
 
-Switch
+%% if(1) if(2) else - Равносильные конструкции, %%
+%% ввду чего в switch добавляется break в каждом кейсе для выхода из конструкции%%
+
+switch(args.length) {
+	case 0: greet("World");
+	case 1: green(args[0]);
+	default: greet("Hello, all!");
+}
+
+do{
+	while (N<10) {
+		for (int i = 0; i<10; i++){
+			for (String s: args){
+				greet(args);
+			}
+		}
+	}
+} while (N < 10);
 
 ```
