@@ -30,7 +30,7 @@ public class Lab1 {
         for (int i = 0; i < lines_c; ++i) {
             double[] line = matrix[i];
 
-            for (int j = 0; j < line.length; ++j) {                   
+            for (int j = 0; j < line.length; ++j) {
                 System.out.printf("%7.2f", line[j]);
             }
             System.out.println();
@@ -40,14 +40,14 @@ public class Lab1 {
 
     static double calc(short z, float x) {
         if (z == 3) {
-            return Math.pow(3.0 * Math.tan((double) z), 2.0) / 2.0; 
+            return Math.pow(3.0 * Math.tan((double) z), 2.0) / 2.0;
 
         } else {
             for (short i: nums){
                 if (z == i) {
                     return Math.log(Math.abs(Math.pow(Math.E, Math.PI / (double) x)));
                 }
-            } 
+            }
         }
 
         return 3.0 / (Math.PI - Math.pow(
