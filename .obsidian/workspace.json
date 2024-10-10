@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "851b775513eb3dc4",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Cинтаксис.md",
+                "file": "Java/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Cинтаксис.md",
+                "file": "Java/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Cинтаксис.md"
+                "file": "Java/Java.md"
               }
             }
           },
@@ -206,10 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "986e7ad551f182b3",
+  "active": "816e002fd4d346e4",
   "lastOpenFiles": [
-    "Java/Java.md",
     "Java/Cинтаксис.md",
+    "Java/Java.md",
     "Базовый синтаксис.md",
     "Images/Pasted image 20241010175626.png",
     "Images/Pasted image 20241010175007.png",
