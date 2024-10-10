@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Базовый синтаксис.md",
+                "file": "Java/Cинтаксис.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "816e002fd4d346e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "986e7ad551f182b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Cинтаксис.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/Cинтаксис.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Cинтаксис.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/Cинтаксис.md"
+              }
             }
           },
           {
@@ -157,21 +185,14 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "3987e59a988932df",
-            "type": "leaf",
-            "state": {
-              "type": "code-execute-manage-executors",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,13 +205,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c60235da6ec88869",
+  "active": "986e7ad551f182b3",
   "lastOpenFiles": [
-    "Java/Базовый синтаксис.md",
+    "Java/Java.md",
+    "Java/Cинтаксис.md",
+    "Базовый синтаксис.md",
     "Images/Pasted image 20241010175626.png",
     "Images/Pasted image 20241010175007.png",
-    "Java/Java.md",
-    "Базовый синтаксис.md",
     "Java",
     "Images/Pasted image 20241010161204.png",
     "Дискретная математика/К-р вопр 1.md",
