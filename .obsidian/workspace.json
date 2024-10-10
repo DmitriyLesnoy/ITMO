@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дискретная математика/К-р вопр 1.md",
+                "file": "Programming/Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Дискретная математика/К-р вопр 1.md",
+                "file": "Programming/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Дискретная математика/К-р вопр 1.md",
+                "file": "Programming/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Дискретная математика/К-р вопр 1.md"
+                "file": "Programming/Java.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "a1b4869a96376cbf",
   "lastOpenFiles": [
-    "Images wors/{0C2248F8-D683-4C90-B187-961C4F480D16}.png",
     "Дискретная математика/К-р вопр 1.md",
+    "Programming/Java.md",
+    "Images wors/{0C2248F8-D683-4C90-B187-961C4F480D16}.png",
     "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf",
     "Images wors",
     "Images wors/{5F1A322D-73E5-4B2A-99D2-63BCF4FE60E5}.png",
