@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Java.md",
+                "file": "Java/Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d237028a451049d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71d7303cb9d5d44a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Базовый синтаксис.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "851b775513eb3dc4",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Java.md",
+                "file": "Java/Базовый синтаксис.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Java.md",
+                "file": "Java/Базовый синтаксис.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Java.md"
+                "file": "Java/Базовый синтаксис.md"
               }
             }
           },
@@ -157,11 +181,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c60235da6ec88869",
+  "active": "71d7303cb9d5d44a",
   "lastOpenFiles": [
+    "Images/Pasted image 20241010175626.png",
+    "Images/Pasted image 20241010175007.png",
+    "Java/Java.md",
+    "Базовый синтаксис.md",
+    "Java/Базовый синтаксис.md",
+    "Java",
     "Images/Pasted image 20241010161204.png",
     "Дискретная математика/К-р вопр 1.md",
-    "Programming/Java.md",
     "Images/{0C2248F8-D683-4C90-B187-961C4F480D16}.png",
     "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf",
     "Images",
@@ -172,8 +201,6 @@
     "Images/{57D82A32-BFB7-494E-B0C9-5C20BCF8E761} 1.png",
     "Images/{57D82A32-BFB7-494E-B0C9-5C20BCF8E761}.png",
     "Images/{80414FCF-1991-452A-82A9-5983C7C248B6}.png",
-    "Images/{42B0A578-9AC7-443F-ACEE-FB420D7E0834}.png",
-    "Images/{60C0046E-1954-4A9D-9C7C-82BAD8F2CC09}.png",
     "Учебники/presa polyakov.pdf",
     "Учебники/presa polyakov.pdf.crdownload",
     "Дискретная математика",
@@ -196,14 +223,12 @@
     "Математический анализ/Математический анализ.md",
     "README.md",
     "Задачи практических занятий.md",
-    "Линейная алгебра/LecB_1_1_Complex.pdf",
     "test.md",
     "Математический анализ/Дз мат. ан. 17.09.md",
     "Михайлов.pdf.md",
     "Небесный замок Лапута.md",
     "История/fro.md",
     "Математика.md",
-    "README — копия (2).md",
-    "README — копия.md"
+    "README — копия (2).md"
   ]
 }
