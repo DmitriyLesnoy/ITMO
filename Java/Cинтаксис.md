@@ -1,4 +1,7 @@
 Java - объектно-ориентированный зык программирования. Синтаксис Java основаны на языках C и C++.
+
+## [[Java 12th Herbert Schildt.pdf| Java Полное руководство H. Schildt]]
+
 ## Типы данных
 ![[Images/Pasted image 20241010175007.png]]
 ![[Images/Pasted image 20241010175626.png]]

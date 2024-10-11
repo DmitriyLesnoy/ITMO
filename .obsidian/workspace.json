@@ -29,18 +29,15 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "dcbc7faaebe25d14"
+            }
           },
           {
             "id": "71d7303cb9d5d44a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Java/Cинтаксис.md",
-                "mode": "source",
-                "source": false
+                "file": "Учебники/Java 12th Herbert Schildt.pdf"
               }
             }
           },
@@ -55,40 +52,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "986e7ad551f182b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Cинтаксис.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "bdeeadfc9cfa596a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "287f1bbb42efa272",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Java.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "dcbc7faaebe25d14"
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 243.51103591918945
   },
   "right": {
     "id": "851b775513eb3dc4",
@@ -154,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Cинтаксис.md",
+                "file": "Java/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Cинтаксис.md",
+                "file": "Java/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Cинтаксис.md"
+                "file": "Java/Java.md"
               }
             }
           },
@@ -225,10 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71d7303cb9d5d44a",
+  "active": "816e002fd4d346e4",
   "lastOpenFiles": [
-    "Java/Java.md",
+    "Учебники/Java 12th Herbert Schildt.pdf",
     "Java/Cинтаксис.md",
+    "Java/Java.md",
     "Базовый синтаксис.md",
     "Images/Pasted image 20241010175626.png",
     "Images/Pasted image 20241010175007.png",
@@ -259,7 +226,6 @@
     "Face book/Peoples/Сара-Мария Коркман.md",
     "Стас.md",
     "Face book/Peoples/Стас Суворов.md",
-    "Face book/Peoples",
     "Face book/Дорогой дневник 1.md",
     "Face book/Удобство.md",
     "Без названия.canvas",
