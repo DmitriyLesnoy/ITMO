@@ -5,6 +5,7 @@ Java - объектно-ориентированный зык программи
 ## Типы данных
 ![[Images/Pasted image 20241010175007.png]]
 ![[Images/Pasted image 20241010175626.png]]
+![[Images/Pasted image 20241012132305.png]]
 ## Присвоение объектов
 ```java
 int i = new int; i++;
