@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Cинтаксис.md",
+                "file": "Учебники/Java 12th Herbert Schildt.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Cинтаксис.md",
+                "file": "Учебники/Java 12th Herbert Schildt.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Cинтаксис.md"
+                "file": "Учебники/Java 12th Herbert Schildt.pdf"
               }
             }
           },
@@ -203,12 +203,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7083cca8edc4827c",
+  "active": "71d7303cb9d5d44a",
   "lastOpenFiles": [
+    "Без названия.md",
     "Java/Java.md",
+    "Java/Cинтаксис.md",
     "Images/Pasted image 20241012140425.png",
     "Учебники/Java 12th Herbert Schildt.pdf",
-    "Java/Cинтаксис.md",
     "Images/Pasted image 20241012132305.png",
     "Базовый синтаксис.md",
     "Images/Pasted image 20241010175626.png",
