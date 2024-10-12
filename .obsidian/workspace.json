@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Java/Cинтаксис.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java.md",
+                "file": "Java/Cинтаксис.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java.md",
+                "file": "Java/Cинтаксис.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java.md"
+                "file": "Java/Cинтаксис.md"
               }
             }
           },
@@ -203,13 +203,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d237028a451049d7",
+  "active": "7083cca8edc4827c",
   "lastOpenFiles": [
+    "Java/Java.md",
     "Images/Pasted image 20241012140425.png",
     "Учебники/Java 12th Herbert Schildt.pdf",
     "Java/Cинтаксис.md",
     "Images/Pasted image 20241012132305.png",
-    "Java/Java.md",
     "Базовый синтаксис.md",
     "Images/Pasted image 20241010175626.png",
     "Images/Pasted image 20241010175007.png",
@@ -223,7 +223,6 @@
     "Images/{5946FDCD-A5BE-48A5-81D4-F18D239E7381}.png",
     "Images/{D6EFC545-32A7-4C88-9AE6-2F2D440F0800}.png",
     "Images/{340D77EF-1F66-46CC-B410-7A3A589FA0F9}.png",
-    "Images/{57D82A32-BFB7-494E-B0C9-5C20BCF8E761} 1.png",
     "Учебники/presa polyakov.pdf",
     "Учебники/presa polyakov.pdf.crdownload",
     "Дискретная математика",
