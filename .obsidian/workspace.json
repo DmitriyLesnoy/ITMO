@@ -49,7 +49,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Учебники/Java 12th Herbert Schildt.pdf"
+                "file": "Учебники/Бойцев А.А. Математический анализ (базовый уровень).pdf"
               }
             }
           },
@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.51103591918945
+    "width": 243.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "851b775513eb3dc4",
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Учебники/Java 12th Herbert Schildt.pdf",
+                "file": "Учебники/Бойцев А.А. Математический анализ (базовый уровень).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Учебники/Java 12th Herbert Schildt.pdf",
+                "file": "Учебники/Бойцев А.А. Математический анализ (базовый уровень).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Учебники/Java 12th Herbert Schildt.pdf"
+                "file": "Учебники/Бойцев А.А. Математический анализ (базовый уровень).pdf"
               }
             }
           },
@@ -184,8 +185,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,33 +205,33 @@
   },
   "active": "71d7303cb9d5d44a",
   "lastOpenFiles": [
-    "OPD/Lab1/~$Д_ЛР1_Вар_1506_P3115_Линейский_Аким_Евгеньевич.docx",
+    "Математический анализ/Математический анализ.md",
+    "Учебники/Бойцев А.А. Математический анализ (базовый уровень).pdf",
+    "Математический анализ/Мат Ан Практика 2.pdf",
+    "Математический анализ/Мат Ан Практика 1.pdf",
+    "Математический анализ/Мат Ан Практика 4.pdf",
+    "Математический анализ/Практика 1 (1).pdf",
+    "Математический анализ/Практика 2.pdf",
+    "Математический анализ/Мат Ан Практика 4 (2).pdf",
+    "Математический анализ/Мат Ан Практика 5.pdf",
+    "Математический анализ/Мат Ан Практика 6.pdf",
+    "Учебники/Java 12th Herbert Schildt.pdf",
     "Без названия.md",
     "Java/Java.md",
     "Java/Cинтаксис.md",
     "Images/Pasted image 20241012140425.png",
-    "Учебники/Java 12th Herbert Schildt.pdf",
     "Images/Pasted image 20241012132305.png",
     "Базовый синтаксис.md",
     "Images/Pasted image 20241010175626.png",
     "Images/Pasted image 20241010175007.png",
-    "Java",
     "Images/Pasted image 20241010161204.png",
     "Дискретная математика/К-р вопр 1.md",
     "Images/{0C2248F8-D683-4C90-B187-961C4F480D16}.png",
-    "Линейная алгебра/LecB_1_4_Fields_and_Matrix.pdf",
-    "Images",
     "Images/{5F1A322D-73E5-4B2A-99D2-63BCF4FE60E5}.png",
     "Images/{5946FDCD-A5BE-48A5-81D4-F18D239E7381}.png",
     "Images/{D6EFC545-32A7-4C88-9AE6-2F2D440F0800}.png",
     "Images/{340D77EF-1F66-46CC-B410-7A3A589FA0F9}.png",
-    "Учебники/presa polyakov.pdf",
-    "Учебники/presa polyakov.pdf.crdownload",
-    "Дискретная математика",
     "Линейная алгебра/Линейная алгебра.md",
-    "Учебники/Бойцев А.А. Математический анализ (базовый уровень).pdf",
-    "Учебники/Михайлов.pdf",
-    "Линейная алгебра/LecB_1_3_Ring_polynom.pdf",
     "Face book/23.09.2024 23.55.md",
     "Face book/Peoples/Леночка Луценко.md",
     "Сара-Мария Коркман.md",
@@ -243,7 +243,6 @@
     "Face book/Дорогой дневник 1.md",
     "Face book/Удобство.md",
     "Без названия.canvas",
-    "Математический анализ/Математический анализ.md",
     "README.md",
     "Задачи практических занятий.md",
     "test.md",
