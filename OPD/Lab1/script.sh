@@ -70,26 +70,34 @@ chmod -R u=rx ./watchog3
 chmod -R u=rwx ./gengar6/gloom
 cp -R ./watchog3 ./gengar6/gloom
 cd ./gengar6/gloom/watchog3
-chmod 737 gorebyss
-chmod 363 purugly
-chmod 004 litwick
-chmod 006 mandibuzz
-chmod 363 munna
-chmod 752 fearow
-cd ..
-chmod 524 watchog3
-cd ..
-chmod 363 gloom
 
-cd ../watchog3/
-chmod 737 gorebyss
-chmod 363 purugly
-chmod 004 litwick
-chmod 006 mandibuzz
-chmod 363 munna
-chmod 752 fearow
+cd lab0
+chmod 400 cherrim4
+chmod u=rw,g=r,o-rwx drilbur6
+chmod 755 gengar6
+chmod =-w-r-x,g=rw rhyperior
+chmod =x,u+r,g+rw,o+w skiploom
+chmod uo+w,g+wr gloom
+chmod =-x,ug=w,u+r shelgon
+chmod u=rw,g=w,o=-r-w-x togepi
+chmod 644 masquerain
+cd ../herdier5
+chmod =-x,ug+w,u+r,o-r oddish
+chmod 046 gastly
+chmod -rwx,u+r ledyba
+ chmod u=rw,g=w,o=w roggenrola
+cd..
+chmod 571 herdier5
+chmod 404 shedinja1
+cd watchog3
+chmod ugo=rwx,g-r gorebyss
+chmod ugo+w,uo+x,g+r purugly
+chmod -rwx,o+r litwick
+chmod ug=,o+rw mandibuzz
+chmod uo=wx,g=rw munna
+chmod ug=rwx,g-w,o=g-x fearow
 cd ..
-chmod 524 watchog3
+chmod o=rx,g=w,o=r watchog3
 
 ls -R
 

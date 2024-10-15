@@ -185,7 +185,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -205,6 +206,7 @@
   },
   "active": "71d7303cb9d5d44a",
   "lastOpenFiles": [
+    "Java/Java.md",
     "Математический анализ/Математический анализ.md",
     "Учебники/Бойцев А.А. Математический анализ (базовый уровень).pdf",
     "Математический анализ/Мат Ан Практика 2.pdf",
@@ -217,7 +219,6 @@
     "Математический анализ/Мат Ан Практика 6.pdf",
     "Учебники/Java 12th Herbert Schildt.pdf",
     "Без названия.md",
-    "Java/Java.md",
     "Java/Cинтаксис.md",
     "Images/Pasted image 20241012140425.png",
     "Images/Pasted image 20241012132305.png",
