@@ -1,4 +1,5 @@
 cd lab0
+
 touch cherrim4
 echo 'Возможности Overland=6 Surface=4 Jump=4 Power=1
 Intelligence=4 Bloom=0' >>cherrim4
@@ -55,62 +56,37 @@ echo 'Живет
 Desert Mountain' >> mandibuzz
 mkdir munna
 mkdir fearow
-
 cd ..
-cp ./shedinja1 ./watchog3/litwickshedinja
 
-chmod 524 watchog3
 
-ln ./drilbur6 ./gengar6/togepidrilbur
-cp ./drilbur6 ./watchog3/fearow
-ln -s ./gengar6 ./Copy_97
-ln -s ./shedinja1 ./gengar6/rhyperiorshedinja
-
-chmod -R u=rx ./watchog3
-chmod -R u=rwx ./gengar6/gloom
-cp -R ./watchog3 ./gengar6/gloom
-cd ./gengar6/gloom/watchog3
-
-cd lab0
 chmod 400 cherrim4
 chmod u=rw,g=r,o-rwx drilbur6
-chmod 755 gengar6
+
+cd gengar6
 chmod =-w-r-x,g=rw rhyperior
 chmod =x,u+r,g+rw,o+w skiploom
 chmod uo+w,g+wr gloom
 chmod =-x,ug=w,u+r shelgon
 chmod u=rw,g=w,o=-r-w-x togepi
 chmod 644 masquerain
-cd ../herdier5
+cd ..
+chmod 755 gengar6
+
+cd ./herdier5
 chmod =-x,ug+w,u+r,o-r oddish
 chmod 046 gastly
 chmod -rwx,u+r ledyba
- chmod u=rw,g=w,o=w roggenrola
-cd..
+chmod u=rw,g=w,o=w roggenrola
+cd ..
 chmod 571 herdier5
 chmod 404 shedinja1
 cd watchog3
 chmod ugo=rwx,g-r gorebyss
-chmod ugo+w,uo+x,g+r purugly
+chmod ugo=w,uo+x,g+r purugly
 chmod -rwx,o+r litwick
-chmod ug=,o+rw mandibuzz
+chmod ug=,o=+rw mandibuzz
 chmod uo=wx,g=rw munna
 chmod ug=rwx,g-w,o=g-x fearow
 cd ..
-chmod o=rx,g=w,o=r watchog3
+chmod u=rx,g=w,o=r watchog3
 
-ls -R
-
-wc -m cherrim4 | cat >> cherrim4
-grep -R "she" ./ | sort -k8
-grep -Rnv 'He' ./herdier5/
-cat -n ./drilbur6 2>//tmp/s466513/errors | sort
-cat -n ledyba roggenrola | grep -v 'e'
-grep -rl "ro" ./ | sort | tail -n 3
-
-rm shedinja1
-rm ./gengar6/masquerain
-rm ./gengar6/rhyperiorshedin*
-rm ./gengar6/togepidrilb*
-chmod -R u+rw watchog3
-rm -R watchog3
